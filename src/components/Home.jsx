@@ -1,6 +1,6 @@
 import React from 'react'
 import {HiDownload} from 'react-icons/hi'
-// import ReactImg from '../assets/Ash_1.jpg';
+import ReactImg from '../assets/swapnil2.jpeg';
 
 function Home() {
   return (
@@ -25,8 +25,8 @@ function Home() {
         </div> */}
       </div>
     </div>
-    <div class="hidden sm:block lg:w-[400px] lg:h-[400px] md:w-[300px] md:h-[300px] sm:w-[250px] sm:h-[250px] rounded-full overflow-hidden mx-8 sm:mr-8">
-      {/* <img className='object-cover h-[100%] w-[100%]' src={ReactImg} alt="Profile" /> */}
+    <div class="hidden sm:block lg:w-[450px] lg:h-[420px] md:w-[350px] md:h-[350px] sm:w-[250px] sm:h-[250px] rounded-full overflow-hidden mx-8 sm:mr-8">
+      <img className='object-cover h-[100%] w-[100%]' src={ReactImg} alt="Profile" />
     </div>
   </div>
 </div>
