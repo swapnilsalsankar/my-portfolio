@@ -66,16 +66,22 @@ const Project = () => {
       </div>
       <div class="shadow-md shadow-[#040c16] group container rounded-md  flex flex-col justify-between text-center items-center mx-auto py-2 px-4 overflow-auto">
         <div>
-          <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">PetMatch App</h3>
+          <h3 class="pt-3 text-2xl font-bold text-[#1e3751] ">WebApp</h3>
           <p class="text-[#6a7280]">2023</p>
           <div class="pt-1 flex flex-wrap justify-center gap-0 items-center">
-            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Figma</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">AWS</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Terraform</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">Node.JS</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">PostgreSQL</p>
+            <p class="text-xs text-[#1e3751] border-[#6a7280] border rounded-lg m-1 p-1 hover:bg-[#1e3751] hover:text-white">GitOps</p>
+
           </div>
-          <p class="py-2 text-[#6a7280]">For this UX project, the work done involved conducting usability tests, gathering user feedback, 
-          and iterating on the design to enhance the user experience of the mobile app that helps find people their furry friend.</p>
+          <p class="py-2 text-[#6a7280]">Led the design and implementation of a highly scalable backend infrastructure for a web application, 
+          employing Node.js, Terraform, and AWS services. Automated testing was executed using Jest, ensuring robustness and reliability of the deployed system and
+           incorporated cutting-edge technologies and best practices in DevOps and cloud computing.</p>
         </div>
         <div class="flex text-center ">
-          <a href="https://www.figma.com/proto/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=72-377&viewport=193%2C99%2C0.11&t=b76cJn1lTgRDykzM-0&scaling=min-zoom&starting-point-node-id=490%3A695" target="_blank" rel="noreferrer">
+          <a href="https://github.com/swapnilsalsankar/webapp.git" target="_blank" rel="noreferrer">
             <button class="rounded-sm text-white bg-[#C3073F] px-3 py-1 my-3 mx-1 flex items-center hover:bg-[#1e3751]">Code</button>
           </a>
           <a href="https://www.figma.com/proto/gtRe3osceIdUf9ueCqArGE/Ashvini_Patidar?type=design&node-id=190-225&viewport=170%2C346%2C0.03&t=Jt7pl2GiOUqrlGGR-0&scaling=scale-down&starting-point-node-id=222%3A2468&show-proto-sidebar=1" target="_blank" rel="noreferrer">
