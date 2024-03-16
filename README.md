@@ -3,17 +3,12 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience. Feel free to explore and learn more about me.
 
 ## Table of Contents
-- [My Portfolio](#my-portfolio)
-  - [Table of Contents](#table-of-contents)
-  - [About Me](#about-me)
-  - [Projects](#projects)
-  - [Skills](#skills)
-  - [Experience](#experience)
-  - [Contact](#contact)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Run Locally](#run-locally)
+- [About Me](#components/about-me)
+- [Projects](#components/projects)
+- [Skills](#components/skills)
+- [Experience](#components/experience)
+- [Contact](#components/contact)
+- [home](#components/home)
 
 ## About Me
 This section provides a brief introduction to who I am, my background, and what I am passionate about. It also includes links to my social media profiles.
@@ -43,5 +38,12 @@ Make sure you have Node.js and npm installed on your machine.
 Run the development server: `npm start`
 Open your browser and visit `http://localhost:3000` to view your portfolio locally.
 
+## Acknowledgments
+Give credit to any third-party libraries, frameworks, or resources you have used in your portfolio.
+
+## License
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
 
 Thank you for visiting my portfolio! If you have any feedback or suggestions, feel free to reach out.
